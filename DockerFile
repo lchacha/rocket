@@ -1,0 +1,4 @@
+FROM rocketchat/rocket.chat:latest
+EXPOSE 80 22
+
+
